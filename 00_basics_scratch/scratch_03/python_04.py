@@ -1,0 +1,5 @@
+print("Hello")
+print("World")
+print("Hello", end=' ')
+print("There!")
+print("Dog", "Cat", "Bird", sep=" | ")

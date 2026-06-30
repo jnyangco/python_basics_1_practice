@@ -4,7 +4,7 @@ if username == "admin":
     print("Welcome, admin!")
 
 password = ""
-if password == "": # same with -> if not password
+if password == "": # same with -> "if not password: "
     print("Password cannot be empty!")
 
 email = "john.doe@example.com"

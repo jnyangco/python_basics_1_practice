@@ -6,7 +6,7 @@ for i in range(1, 6):
     if guess_number < secret_number:
         print("Your guess number is less than the secret number")
     elif guess_number > secret_number:
-        print("Your guess number is greather than the secret number")
+        print("Your guess number is greater than the secret number")
     elif guess_number == secret_number:
         print("You got it! The secret number is {}".format(secret_number))
         break

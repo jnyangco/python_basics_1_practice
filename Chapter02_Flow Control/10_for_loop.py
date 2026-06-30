@@ -9,6 +9,6 @@ print("Total: {}".format(total))
 
 print('\nPrint my name 5X using While Loop:')
 i = 0
-while (i < 5):
+while i < 5:
     print("Jerome")
     i += 1
